@@ -57,7 +57,7 @@ With 13+ years of experience in software testing, including 4+ years of onsite e
 ### BADGE
 
 <a href="https://www.credly.com/badges/2ac30e1f-31c5-437c-a197-c4224e93a717" target="_blank">
-    <img src="assets/img/UFT-One-Tester-Specialist.png" alt="UFT-One-Tester-Specialist" title="Microsoft Azure Fundamentals" width="50">
+    <img src="assets/img/Azure-Fundamentals.png" alt="UFT-One-Tester-Specialist" title="Microsoft Azure Fundamentals" width="50">
 </a>
 
 <a href="https://www.freecodecamp.org/certification/sheik_sanavulla/scientific-computing-with-python-v7" target="_blank">
