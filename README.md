@@ -61,32 +61,32 @@ With 13+ years of experience in software testing, including 4+ years of onsite e
 </a>
 
 <a href="https://www.freecodecamp.org/certification/sheik_sanavulla/scientific-computing-with-python-v7" target="_blank">
-    <img src="assets/img/githubfundation.png" alt="scientific-computing-with-python" title="Scientific computing with python" width="50">
+    <img src="assets/img/FreeCodeCampPython.png" alt="scientific-computing-with-python" title="Scientific computing with python" width="50">
 </a>
 <a href="https://ude.my/UC-8633ce2d-5bc7-48be-a639-2f0be087c5c6" target="_blank">
-    <img src="assets/img/jirafundamentals.png" alt="The Complete Java Certification Course" title="The Complete Java Certification Course" width="50">
+    <img src="assets/img/UdemyJava.png" alt="The Complete Java Certification Course" title="The Complete Java Certification Course" width="50">
 </a>
 
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/911fabe1-8aae-4eaf-9582-77b50ff61c58/shared?lang=en&t=1757499615109" target="_blank">
-    <img src="assets/img/Automating-web-application-testing.png" alt="Automation Specialist for API" title="Automation Specialist for API" width="50">
+    <img src="assets/img/Automation-Specialist-for-API.png" alt="Automation Specialist for API" title="Automation Specialist for API" width="50">
 </a>
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/10fd70ab-5ed6-4b32-b8cd-5ee537ea6d46/shared?lang=en&t=1757501991645" target="_blank">
-    <img src="assets/img/Automation-Specialist-for-API.png" alt="Automation Specialist for databases" title="Automation Specialist for databases" width="50">
+    <img src="assets/img/Automating-Database.png" alt="Automation Specialist for databases" title="Automation Specialist for databases" width="50">
 </a>
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/3f0af165-4b3c-4585-9a89-bb42731b566f/shared?lang=en&t=1757502082189" target="_blank">
-    <img src="assets/img/Automating-Database.png" alt="Automation Specialist Level 1" title="Automation Specialist Level 1" width="50">
+    <img src="assets/img/Automation-specialist-level1.png" alt="Automation Specialist Level 1" title="Automation Specialist Level 1" width="50">
 </a>
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/5981025d-1fad-4ee5-a224-597ddac3f95b/shared?lang=en&t=1757502173717" target="_blank">
-    <img src="assets/img/Automating-SAP.png" alt="Automation Specialist Level 2" title="Automation Specialist Level 2" width="50">
+    <img src="assets/img/Automation-specialist-level2.png" alt="Automation Specialist Level 2" title="Automation Specialist Level 2" width="50">
 </a>
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/36cedf9b-db49-4193-b721-e9e3c6b1ab82/shared?lang=en&t=1757502232949" target="_blank">
-    <img src="assets/img/Tosca-Query-Language.png" alt="Exploratory testing Specialist" title="Exploratory testing Specialist" width="50">
+    <img src="assets/img/Exploratory-Testing.png" alt="Exploratory testing Specialist" title="Exploratory testing Specialist" width="50">
 </a>
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/7e586c11-6801-4842-a32a-8443143e0566/shared?lang=en&t=1757502314234" target="_blank">
-    <img src="assets/img/Tosca-Query-Language.png" alt="Test Design Specialist Level 1" title="Test Design Specialist Level 1" width="50">
+    <img src="assets/img/Test-design-specialist-level1.png" alt="Test Design Specialist Level 1" title="Test Design Specialist Level 1" width="50">
 </a>
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/fc8d3e50-433a-4ec3-9db8-5ec36d8d9ed0/shared?lang=en&t=1757502374603" target="_blank">
-    <img src="assets/img/Tosca-Query-Language.png" alt="Test Design Specialist Level 2" title="Test Design Specialist Level 2" width="50">
+    <img src="assets/img/Test-design-specialist-level2.png" alt="Test Design Specialist Level 2" title="Test Design Specialist Level 2" width="50">
 </a>
 
 
