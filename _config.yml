@@ -1,7 +1,7 @@
 title: SHEIK SANAVULLA
 # logo: /assets/img/headshot.png
 logo: /assets/img/Sanavulla.jpg
-show_downloads: true
+show_downloads: false
 #show_downloads: true
 theme: jekyll-theme-minimal
 
