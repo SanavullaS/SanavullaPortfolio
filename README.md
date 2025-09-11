@@ -74,7 +74,7 @@ With 13+ years of experience in software testing, including 4+ years of onsite e
     <img src="assets/img/Automating-Database.png" alt="Automation Specialist for databases" title="Automation Specialist for databases" width="50">
 </a>
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/3f0af165-4b3c-4585-9a89-bb42731b566f/shared?lang=en&t=1757502082189" target="_blank">
-    <img src="assets/img/Automation-Specialist-level-1.JPG" alt="Automation Specialist Level 1" title="Automation Specialist Level 1" width="50">
+    <img src="assets/img/Automation-Specialist-level-1.jpg" alt="Automation Specialist Level 1" title="Automation Specialist Level 1" width="50">
 </a>
 <a href="https://academy.tricentis.com/share/v1/gamification/assigned_badge/5981025d-1fad-4ee5-a224-597ddac3f95b/shared?lang=en&t=1757502173717" target="_blank">
     <img src="assets/img/Automation-specialist-level-2.png" alt="Automation Specialist Level 2" title="Automation Specialist Level 2" width="50">
